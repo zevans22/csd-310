@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import mysql.connector
 
 #This will establish the connection to MySQL.
@@ -50,3 +51,6 @@ for x in rows:
 input("Press any key to continue...")
 
 db.close()
+=======
+
+>>>>>>> 3f5699b13e740867d4caac17899201f8f539071a
